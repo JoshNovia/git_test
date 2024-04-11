@@ -1,0 +1,36 @@
+.header{
+    display: flex;
+    font-family:'Times New Roman', Times, serif;
+    background-color:papayawhip;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+}
+
+.logo{
+    background: white;
+    font-weight: 900;
+    color: tomato;
+    font-size: 48px;
+    padding: 4px 32px;
+    align-self: center;
+
+}
+
+a{
+    font-size: 22px;
+    background: white;
+    padding: 8px;
+    text-decoration: none;
+}
+ul{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 8px;
+    list-style-type: none;
+}
+.left-links .right-links{
+    text-decoration: none;
+}
